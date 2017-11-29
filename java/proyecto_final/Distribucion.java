@@ -44,7 +44,7 @@ public class Distribucion {
         double x, me;
         x = 0;
         me = m/k;
-        for(i=1;1<=k;i++){
+        for(i=1;i<=k;i++){
             x+=exponencial(me);
             
         }
