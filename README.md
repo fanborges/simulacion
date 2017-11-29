@@ -1,5 +1,10 @@
-# simulacion
-Código para la materia de simulación.
+# Simulación de un cajero automático
+
+Alumno: Luis Clemente Zúñiga Flores.
+
+Profesor: Martín Nicolás Silva Arredondo.
+
+Materia: Simulación.
 
 # javadocs 
 
